@@ -27,7 +27,7 @@ mod tests {
         let green: ColorClassicStruct = ColorClassicStruct {
             red: 0,
             green: 255,
-            blue: 0,
+            blue: 0,  
         };
 
         assert_eq!(green.red, 0);
